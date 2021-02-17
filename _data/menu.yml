@@ -4,7 +4,7 @@
 entries:
   - title: Info
     entries:
-      - title: A Research on Generalized Labeled Multi-Bernoulli (GLMB) tracker
+      - title: This is a project page for a Research on Generalized Labeled Multi-Bernoulli (GLMB) tracker.
 #       - title: github repo
 #         url: https://github.com/riggraz/no-style-please
 #       - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
@@ -34,25 +34,27 @@ entries:
             entries:
             - title: Beijing all
               url: b_trend_all.html
-            - title: Beijing sample 0
-              url: b_truth_0.html
-            - title: Beijing sample 1
-              url: b_truth_1.html
-            - title: Beijing sample 2
-              url: b_truth_2.html
-            - title: Beijing sample 3
-              url: b_truth_3.html
+              entries:
+              - title: Beijing sample 0
+                url: b_truth_0.html
+              - title: Beijing sample 1
+                url: b_truth_1.html
+              - title: Beijing sample 2
+                url: b_truth_2.html
+              - title: Beijing sample 3
+                url: b_truth_3.html
               
             - title: Porto all
               url: p_trend_all.html
-            - title: Porto sample 0
-              url: p_truth_0.html
-            - title: Porto sample 1
-              url: p_truth_1.html
-            - title: Porto sample 2
-              url: p_truth_2.html
-            - title: Porto sample 3
-              url: p_truth_3.html
+              entries:
+              - title: Porto sample 0
+                url: p_truth_0.html
+              - title: Porto sample 1
+                url: p_truth_1.html
+              - title: Porto sample 2
+                url: p_truth_2.html
+              - title: Porto sample 3
+                url: p_truth_3.html
 
 #   - title: PRO TIP
 #     entries:
