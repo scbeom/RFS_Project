@@ -4,10 +4,10 @@
 entries:
   - title: Info
     entries:
-      - title: A Research on Generalized Labeled Multi-Bernoulli (GLMB) tracker at Curtin Uni
-      - title: github repo
-        url: https://github.com/riggraz/no-style-please
-      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
+      - title: A Research on Generalized Labeled Multi-Bernoulli (GLMB) tracker
+#       - title: github repo
+#         url: https://github.com/riggraz/no-style-please
+#       - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
 
 #   - title: all posts
 #     post_list:
@@ -28,10 +28,9 @@ entries:
   
   - title: Ground Truths for Performance Evaluation
     entries:
-      - title: Real data sets ("used by <a href='https://http://www.geolink.pt/ecmlpkdd2015-challenge/dataset.html'>Porto</a> and <a href='https://www.microsoft.com/en-us/research/publication/geolife-gps-trajectory-dataset-user-guide/'>Beijing</a>")
+      - title: Real data sets (<a href='https://www.kaggle.com/c/pkdd-15-predict-taxi-service-trajectory-i/overview'>Porto</a> and <a href='https://www.microsoft.com/en-us/research/publication/geolife-gps-trajectory-dataset-user-guide/'>Beijing</a>)
         entries:
-          - title: with subsubitems
-          - title: example page
+          - title: Map-matching based data sets
             url: about
 #   - title: PRO TIP
 #     entries:
