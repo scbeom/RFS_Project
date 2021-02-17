@@ -28,7 +28,7 @@ entries:
   
   - title: Ground Truths for Performance Evaluation
     entries:
-      - title: with subitems
+      - title: Real data sets ("used by <a href='https://http://www.geolink.pt/ecmlpkdd2015-challenge/dataset.html'>Porto</a> and <a href='https://www.microsoft.com/en-us/research/publication/geolife-gps-trajectory-dataset-user-guide/'>Beijing</a>")
         entries:
           - title: with subsubitems
           - title: example page
