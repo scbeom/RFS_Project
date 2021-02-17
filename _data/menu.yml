@@ -28,7 +28,7 @@ entries:
   
   - title: Ground Truths for Performance Evaluation
     entries:
-      - title: Real data sets (source: <a href='https://www.kaggle.com/c/pkdd-15-predict-taxi-service-trajectory-i/overview'>Porto</a> and <a href='https://www.microsoft.com/en-us/research/publication/geolife-gps-trajectory-dataset-user-guide/'>Beijing</a>)
+      - title: Real data sets (website: <a href='https://www.kaggle.com/c/pkdd-15-predict-taxi-service-trajectory-i/overview'>Porto</a> and <a href='https://www.microsoft.com/en-us/research/publication/geolife-gps-trajectory-dataset-user-guide/'>Beijing</a>)
         entries:
           - title: Map-matching based data sets
             url: Map-matching
